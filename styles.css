@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  background-color: #232322; /* Adjust as needed */
+  background-color: #232322;
 }
 
 .login-container {
@@ -11,11 +11,11 @@ body {
   padding: 20px;
   border-radius: 5px;
   background-color: #fff;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .login-logo {
-  width: 200px; /* Adjust as needed */
+  width: 200px;
   height: auto;
   display: block;
   margin: 0 auto 20px;
@@ -33,7 +33,7 @@ input[type="password"] {
   padding: 10px;
   border: 1px solid #ddd;
   border-radius: 4px;
-  box-sizing: border-box; /* Ensure consistent sizing */
+  box-sizing: border-box;
 }
 
 button[type="submit"] {
